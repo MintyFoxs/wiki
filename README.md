@@ -1,2 +1,2 @@
-### Wiki Build Status | [![](https://travis-ci.org/MindustryGame/wiki.svg?branch=master)](https://travis-ci.org/MindustryGame/wiki)
-This is the wiki page for Mindustry.
+### Wiki Build Status | [![](https://travis-ci.org/NyafaKyn/Mindustry-ru.svg?branch=master)](https://travis-ci.org/NyafaKyn/Mindustry-ru)
+This is the wiki page for Mindustry Ru.
